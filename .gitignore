@@ -1,0 +1,10 @@
+# This repository contains the reusable method, never personal answers.
+personal/
+private/
+answers/
+sessions/
+outputs/
+.env
+.env.*
+*.log
+.DS_Store
